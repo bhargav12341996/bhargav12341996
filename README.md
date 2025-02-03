@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhargav Silaparasetty</h1>
-<h3 align="center">A passionate Data Geek from San Francisco Bay Area. I am currently exploring all the fields in Data like Data Analysis, Data Science and Data Engineering. I am an expert in SQL, Power BI and advanced excel like Macros and Pivot Tables. I am also an expert in Data engineering with primary focus on GCP and building ETL pipelines and working on real time streaming applications like Kafka, Flink etc.</h3>
+<h1 align="left">Hi 👋, I'm Bhargav Silaparasetty</h1>
+<h3 align="left">A passionate Data Geek from San Francisco Bay Area. I am currently exploring all the fields in Data like Data Analysis, Data Science and Data Engineering. I am an expert in SQL, Power BI and advanced excel like Macros and Pivot Tables. I am also an expert in Data engineering with primary focus on GCP and building ETL pipelines and working on real time streaming applications like Kafka, Flink etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav12341996&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav12341996" /> </p>
 
